@@ -1,0 +1,246 @@
+/*
+        This font software is the property of Commercial Type.
+
+        You may not modify the font software, use it on another website, or install it on a computer.
+
+        License information is available at http://commercialtype.com/eula
+        For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+        Copyright (C) 2024 Schwartzco Inc.
+        License 2401-VGMATZ      
+*/
+
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-MediumItalic-Web.woff2') format('woff2'),
+		 url('GraphikWide-MediumItalic-Web.woff') format('woff');
+	font-weight: 500;
+	font-style: italic;
+	}
+
+.GraphikWide-MediumItalic-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 500;
+	font-style: italic;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-SuperItalic-Web.woff2') format('woff2'),
+		 url('GraphikWide-SuperItalic-Web.woff') format('woff');
+	font-weight: 900;
+	font-style: italic;
+	}
+
+.GraphikWide-SuperItalic-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 900;
+	font-style: italic;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-Medium-Web.woff2') format('woff2'),
+		 url('GraphikWide-Medium-Web.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+	}
+
+.GraphikWide-Medium-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 500;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-LightItalic-Web.woff2') format('woff2'),
+		 url('GraphikWide-LightItalic-Web.woff') format('woff');
+	font-weight: 300;
+	font-style: italic;
+	}
+
+.GraphikWide-LightItalic-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 300;
+	font-style: italic;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-Regular-Web.woff2') format('woff2'),
+		 url('GraphikWide-Regular-Web.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+	}
+
+.GraphikWide-Regular-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 400;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-Bold-Web.woff2') format('woff2'),
+		 url('GraphikWide-Bold-Web.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+	}
+
+.GraphikWide-Bold-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 700;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-ExtralightItalic-Web.woff2') format('woff2'),
+		 url('GraphikWide-ExtralightItalic-Web.woff') format('woff');
+	font-weight: 200;
+	font-style: italic;
+	}
+
+.GraphikWide-ExtralightItalic-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 200;
+	font-style: italic;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-Super-Web.woff2') format('woff2'),
+		 url('GraphikWide-Super-Web.woff') format('woff');
+	font-weight: 900;
+	font-style: normal;
+	}
+
+.GraphikWide-Super-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 900;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-RegularItalic-Web.woff2') format('woff2'),
+		 url('GraphikWide-RegularItalic-Web.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+	}
+
+.GraphikWide-RegularItalic-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 400;
+	font-style: italic;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-SemiboldItalic-Web.woff2') format('woff2'),
+		 url('GraphikWide-SemiboldItalic-Web.woff') format('woff');
+	font-weight: 600;
+	font-style: italic;
+	}
+
+.GraphikWide-SemiboldItalic-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 600;
+	font-style: italic;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-BlackItalic-Web.woff2') format('woff2'),
+		 url('GraphikWide-BlackItalic-Web.woff') format('woff');
+	font-weight: 800;
+	font-style: italic;
+	}
+
+.GraphikWide-BlackItalic-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 800;
+	font-style: italic;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-Thin-Web.woff2') format('woff2'),
+		 url('GraphikWide-Thin-Web.woff') format('woff');
+	font-weight: 100;
+	font-style: normal;
+	}
+
+.GraphikWide-Thin-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 100;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-Extralight-Web.woff2') format('woff2'),
+		 url('GraphikWide-Extralight-Web.woff') format('woff');
+	font-weight: 200;
+	font-style: normal;
+	}
+
+.GraphikWide-Extralight-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 200;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-Light-Web.woff2') format('woff2'),
+		 url('GraphikWide-Light-Web.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+	}
+
+.GraphikWide-Light-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 300;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-Semibold-Web.woff2') format('woff2'),
+		 url('GraphikWide-Semibold-Web.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+	}
+
+.GraphikWide-Semibold-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 600;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-BoldItalic-Web.woff2') format('woff2'),
+		 url('GraphikWide-BoldItalic-Web.woff') format('woff');
+	font-weight: 700;
+	font-style: italic;
+	}
+
+.GraphikWide-BoldItalic-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 700;
+	font-style: italic;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-ThinItalic-Web.woff2') format('woff2'),
+		 url('GraphikWide-ThinItalic-Web.woff') format('woff');
+	font-weight: 100;
+	font-style: italic;
+	}
+
+.GraphikWide-ThinItalic-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 100;
+	font-style: italic;
+	}
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-Black-Web.woff2') format('woff2'),
+		 url('GraphikWide-Black-Web.woff') format('woff');
+	font-weight: 800;
+	font-style: normal;
+	}
+
+.GraphikWide-Black-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 800;
+	font-style: normal;
+	}
