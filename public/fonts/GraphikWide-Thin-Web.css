@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-Thin-Web.woff2') format('woff2'),
+		 url('GraphikWide-Thin-Web.woff') format('woff');
+	font-weight: 100;
+	font-style: normal;
+	}
+
+.GraphikWide-Thin-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 100;
+	font-style: normal;
+	}

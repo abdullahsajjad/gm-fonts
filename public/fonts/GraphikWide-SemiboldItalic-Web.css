@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'Graphik Wide Web';
+	src: url('GraphikWide-SemiboldItalic-Web.woff2') format('woff2'),
+		 url('GraphikWide-SemiboldItalic-Web.woff') format('woff');
+	font-weight: 600;
+	font-style: italic;
+	}
+
+.GraphikWide-SemiboldItalic-Web {
+	font-family: 'Graphik Wide Web';
+	font-weight: 600;
+	font-style: italic;
+	}
